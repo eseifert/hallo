@@ -13,7 +13,7 @@ Read the [introductory blog post](http://bergie.iki.fi/blog/hallo-editor/) for m
 
 ## Using the editor
 
-You need jQuery, jQuery UI (1.10+), and [Rangy](https://code.google.com/p/rangy/) loaded. An easy way to do this is to use Google's JS service:
+You need jQuery, jQuery UI (1.10+), and [Rangy](https://github.com/timdown/rangy) loaded. An easy way to do this is to use Google's JS service:
 
 ```html
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
